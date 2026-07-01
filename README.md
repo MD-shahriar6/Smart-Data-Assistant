@@ -57,7 +57,7 @@ Project/
 
 # 🏗️ Architecture
 
-> **(Architecture diagram will be added here.)**
+![image alt](https://github.com/MD-shahriar6/Smart-Data-Assistant/blob/abdabcc993c339180f88fe36e1e30dd877163236/Screenshot%202026-07-01%20121842.png)
 
 ---
 
